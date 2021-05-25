@@ -1,2 +1,4 @@
 # CS-F213---OOP-Teaching-Assistant-
-This contains the solutions to Labs of Object Oriented Programming course (Java), held in BITS PILANI, Goa for CS students in the academic session 2020-21.
+This contains the solutions to Labs of Object Oriented Programming course (Java), held in BITS Pilani in the academic session 2020-21. I, having already completed the course with a good grade, was the teaching assistant in this course. My job (along with other TAs) was to design questions from scratch and conduct evaluative labs for helping 2nd, 3rd and 4th year students learn OOP principles in Java.
+
+Since colleges were virtual this entire year (thanks to COVID-19), the labs were conducted on an online platform called *Codepost*. Students were given about 2 hours to solve a lab and then were asked to upload all files at once at a designated point in Codepost. Codepost has an autograder that marks students by running their code on the provided test cases. It also checks for plagiarism by running MOSS.
